@@ -1,2 +1,2 @@
 # RIBG
-removeimage background and create transparent image
+remove image background and create transparent image
